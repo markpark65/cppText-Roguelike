@@ -1,3 +1,0 @@
-C:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/build/CMakeFiles/roguelike.dir
-C:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/build/CMakeFiles/ZERO_CHECK.dir
