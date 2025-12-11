@@ -1,0 +1,10 @@
+^C:\USERS\USER_20210708\DOCUMENTS\GITHUB\CPPTEXT-ROGUELIKE\BUILD\CMAKEFILES\806762549117875047B5635D9B828F73\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike -BC:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/build/Roguelike.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

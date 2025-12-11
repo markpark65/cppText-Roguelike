@@ -1,0 +1,3 @@
+C:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/out/build/x64-Debug/CMakeFiles/roguelike.dir
+C:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/USER_20210708/Documents/GitHub/cppText-Roguelike/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
