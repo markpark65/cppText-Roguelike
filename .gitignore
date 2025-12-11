@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+out/
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+*.idb
+*.ilk
+
+# CMake / Build
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Executables
+*.exe
+*.dll
+*.obj
+
+# OS
+.DS_Store
+Thumbs.db
